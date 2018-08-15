@@ -8,7 +8,6 @@ Possible arguments:
 -year is the year of the hash you're downloading
 */
 
-// please look away if you want to preserve your eyes
 #include <fstream>
 #include <Windows.h>
 #include <string>
