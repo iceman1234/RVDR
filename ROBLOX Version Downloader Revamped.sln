@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ROBLOX Version Downloader Revamped", "ROBLOX Version Downloader Revamped\ROBLOX Version Downloader Revamped.vcxproj", "{CF66989C-AE17-4A1A-B757-BAC9E09B800A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Debug|x64.ActiveCfg = Debug|x64
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Debug|x64.Build.0 = Debug|x64
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Debug|x86.Build.0 = Debug|Win32
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Release|x64.ActiveCfg = Release|x64
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Release|x64.Build.0 = Release|x64
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Release|x86.ActiveCfg = Release|Win32
+		{CF66989C-AE17-4A1A-B757-BAC9E09B800A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8577A5-9313-4FA7-9135-4F079293BAE3}
+	EndGlobalSection
+EndGlobal
